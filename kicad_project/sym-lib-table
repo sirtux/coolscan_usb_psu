@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "traco")(type "KiCad")(uri "/Users/tom/repo/coolscan-psu/kicad_library/symbols/traco.kicad_sym")(options "")(descr ""))
+  (lib (name "jlcpartslib")(type "KiCad")(uri "/Users/tom/repo/coolscan-psu/kicad_library/symbols/jlcpartslib.kicad_sym")(options "")(descr ""))
+)
